@@ -9,7 +9,7 @@
 
 ![效果图](https://github.com/gstok/qqgroup-visualization/blob/master/img/t1.jpg)
 
-## *本项目不提供数据库*
+## *本项目仅供学习，不提供数据库！*
 
 ## 1.配置数据库（需要300GB以上磁盘剩余空间）
 + 该数据库在2018年十月更新，之前的数据库一概不能用
