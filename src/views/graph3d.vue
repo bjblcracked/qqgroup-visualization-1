@@ -201,14 +201,14 @@
                     this.graphRender = this.graph.renderer();
                     this.graphScene = this.graph.scene();
     
-                    let loader = new THREE.CubeTextureLoader();
-                    loader.setPath("/static/texture/");
-                    let textureCube = loader.load([
-                        'posx.jpg', 'negx.jpg',
-                        'posy.jpg', 'negy.jpg',
-                        'posz.jpg', 'negz.jpg',
-                    ]);
-                    this.graphScene.background = textureCube;
+                    // let loader = new THREE.CubeTextureLoader();
+                    // loader.setPath("/static/texture/");
+                    // let textureCube = loader.load([
+                    //     'posx.jpg', 'negx.jpg',
+                    //     'posy.jpg', 'negy.jpg',
+                    //     'posz.jpg', 'negz.jpg',
+                    // ]);
+                    // this.graphScene.background = textureCube;
 
                     window.addEventListener("resize", this.onThreeResize, false);
                 },
