@@ -112,7 +112,7 @@ SHA256: 4DE4E3A0D44FDD4CE9D7EF15747C7516FDFBE10C96BEBDE1D5D98CE501BF1936
 + QQ群（常有老司机飙车🚕）：943928860  
 ![QQ群二维码](https://github.com/gstok/qqgroup-visualization/blob/master/img/groupQRCode.jpg)  
 + 微信号：beijingxuesheng  
-![微信号二维码](https://github.com/gstok/qqgroup-visualization/blob/master/img/myWeChatQRCode.png)  
+![微信号二维码](https://github.com/gstok/qqgroup-visualization/blob/master/img/myWeChatQRCode.jpeg)  
 
 ## 请作者吃酸菜鱼🍲
 ![微信支付](https://github.com/gstok/qqgroup-visualization/blob/master/img/wechatQRCode.png)  
