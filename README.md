@@ -12,7 +12,6 @@
 ## *本项目仅供学习，不提供数据库！*
 
 ## 1.配置数据库（需要300GB以上磁盘剩余空间）
-+ 该数据库在2018年十月更新，之前的数据库一概不能用
 + 下载并安装SqlServer2008R2(注意，不能是Expores版本，最好是企业版否则会有数据库大小限制)，配置好用户名以及登录密码，如果远程连接数据库的话，需配置数据库允许远程登录（SqlServer数据库配置请自行搜索教程）
 + 下载数据库备份文件
 + 解压下载的压缩包，得到数据库备份文件，恢复数据库备份文件到SqlServer（SqlServer恢复数据库恢复操作请自行搜索教程）
@@ -57,17 +56,4 @@ npm run start
 
 ## 数据库说明
 + 数据库请使用SqlServer2008R2或更新版本的SqlServer
-        
-## 联系
-+ QQ群（常有老司机飙车🚕）：943928860  
-![QQ群二维码](https://github.com/gstok/qqgroup-visualization/blob/master/img/groupQRCode.jpg)  
-+ 微信号：beijingxuesheng  
-![微信号二维码](https://github.com/gstok/qqgroup-visualization/blob/master/img/myWeChatQRCode.jpeg)  
-
-## 请作者吃酸菜鱼🍲
-![微信支付](https://github.com/gstok/qqgroup-visualization/blob/master/img/wechatQRCode.png)  
-![支付宝支付](https://github.com/gstok/qqgroup-visualization/blob/master/img/alipayQRCode.jpg)  
-
-## 程序员装逼驿站公众号(一起来装逼吧🌚)
-![公众号](https://github.com/gstok/qqgroup-visualization/blob/master/img/gzhQRCode.jpg) 
 
